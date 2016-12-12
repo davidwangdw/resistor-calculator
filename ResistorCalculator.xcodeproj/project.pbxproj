@@ -99,7 +99,7 @@
 				TargetAttributes = {
 					217996A01DEBAC990022E198 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = D9S89KNAV4;
+						DevelopmentTeam = 98YT4HPVK9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -266,7 +266,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = D9S89KNAV4;
+				DEVELOPMENT_TEAM = 98YT4HPVK9;
 				INFOPLIST_FILE = ResistorCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DW.ResistorCalculator;
@@ -280,7 +280,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = D9S89KNAV4;
+				DEVELOPMENT_TEAM = 98YT4HPVK9;
 				INFOPLIST_FILE = ResistorCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.DW.ResistorCalculator;
